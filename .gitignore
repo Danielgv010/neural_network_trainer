@@ -1,4 +1,6 @@
 .venv
+data/**
+!data/*/README.md
 logs/**
 !logs/README.md
 **/__pycache__/
